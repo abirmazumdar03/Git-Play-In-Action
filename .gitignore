@@ -1,0 +1,2 @@
+*.txt 
+#This suggest that all files with .txt extension will be ignored by the GIT
