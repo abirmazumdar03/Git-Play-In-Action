@@ -1,0 +1,6 @@
+class ABC
+{
+PSVM()
+{
+}
+}
